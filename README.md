@@ -1,2 +1,2 @@
 # desafio-dio
-Desafio curso Git
+Desafio de Projeto do curso sobre Git/Github
