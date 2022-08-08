@@ -1,0 +1,2 @@
+Link para download do GIT: https://git-scm.com/downloads
+Link para download do Tortoise: https://tortoisegit.org/download/
